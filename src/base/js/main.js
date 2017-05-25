@@ -83,8 +83,7 @@ Preview.prototype._onKeyUp = function(e) {
   this.left.classList.remove('active');
 };
 
-Preview.prototype._onHashChange = function(e) {
-  var _this = this;
+Preview.prototype._onHashChange = function() {
   this.iframe.src = window.location.hash.substr(1);
 };
 
