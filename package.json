@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Development repository for issue #79",
   "license": "MIT",
+  "homepage": "https://joemidi.github.io/bannertime-issue79",
   "repository": {
     "type": "git",
     "url": "https://github.com/joemidi/bannertime-issue79"
@@ -21,6 +22,7 @@
     "gulp-changed": "^1.3.0",
     "gulp-cssnano": "^2.1.1",
     "gulp-expect-file": "0.0.7",
+    "gulp-gh-pages": "^0.5.4",
     "gulp-htmlmin": "^3.0.0",
     "gulp-if": "^2.0.0",
     "gulp-imagemin": "^3.1.1",
